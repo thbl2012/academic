@@ -85,6 +85,3 @@ Previously, I graduated from the National University of Singapore with a B.S. in
 * Singapore Math Society Gold Medal and Book Prize. June 2018.
 
 * Bronze Medal at International Mathematical Olympiad. July 2012.
-
-
-# Reviews
