@@ -5,6 +5,8 @@ Linh Tran
 Email: l.tran@yale.edu [[CV](https://thbl2012.github.io/academic/BaoLinhTranResCV2024-Postdoc.pdf)]
 
 I am a graduating PhD student in the Yale Math Department.\
+My research interests include Probability, Combinatorics, Data Science and Computer Science.
+I have research projects in random matrix, random graph theory, dimensionality reduction techniques, 
 Previously, I graduated from the National University of Singapore with a B.S. in Mathematics and Computer Science.
 
 
@@ -36,6 +38,17 @@ Previously, I graduated from the National University of Singapore with a B.S. in
 
 * Fast Exact Recovery of Noisy Matrix from Few Entries: The Infinity Approach.\
   Joint with Van Vu. [[paper](https://thbl2012.github.io/academic/BaoLinhTran_VanVu_MatrixCompletion_2024.pdf)]
+
+
+# Other reports
+
+* Non-redundant Dimensionality Reduction Methods and Applications in Image Compression.\
+  Independent Project (2020). [[paper](https://thbl2012.github.io/academic/non_redundant_dim_reduction.pdf)] [[simulation code](https://github.com/thbl2012/non_redundant_dim_reduction)]
+
+
+* Machine Learning Methods in Biomolecule Analysis.\
+  Computer Science Dissertation Project (2018). [[paper](https://thbl2012.github.io/academic/Protein_Folding_Report.pdf)] [[simulation code](https://github.com/thbl2012/Protein_Folding_Prediction)]
+  
 
 
 # Conferences and Summer Schools
