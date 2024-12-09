@@ -6,7 +6,7 @@ Email: l.tran@yale.edu [[CV](https://thbl2012.github.io/academic/BaoLinhTranResC
 
 I am a graduating PhD student in the Yale Math Department.\
 My research interests include Probability, Combinatorics, Data Science and Computer Science.
-I have research projects in random matrix, random graph theory, dimensionality reduction techniques, 
+My previous research topics include random matrix, random graph theory, dimensionality reduction techniques, theoretical computer science, and bioinformatics.
 Previously, I graduated from the National University of Singapore with a B.S. in Mathematics and Computer Science.
 
 
